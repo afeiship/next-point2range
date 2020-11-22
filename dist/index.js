@@ -1,15 +1,15 @@
 /*!
- * name: @feizheng/next-points2range
+ * name: @jswork/next-points2range
  * description: Points to range for next.
- * url: https://github.com/afeiship/next-points2range
+ * homepage: https://github.com/afeiship/next-points2range
  * version: 1.0.0
- * date: 2020-04-03 12:49:20
+ * date: 2020-11-22 13:42:10
  * license: MIT
  */
 
 (function () {
   var global = global || this || window || Function('return this')();
-  var nx = global.nx || require('@feizheng/next-js-core2');
+  var nx = global.nx || require('@jswork/next');
 
   nx.points2range = function () {
     var args = arguments;
@@ -38,5 +38,3 @@
     module.exports = nx.points2range;
   }
 })();
-
-//# sourceMappingURL=next-points2range.js.map
