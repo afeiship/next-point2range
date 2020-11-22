@@ -3,7 +3,7 @@
  * description: Points to range for next.
  * homepage: https://github.com/afeiship/next-points2range
  * version: 1.0.0
- * date: 2020-11-22 13:42:10
+ * date: 2020-11-22 13:43:05
  * license: MIT
  */
 
